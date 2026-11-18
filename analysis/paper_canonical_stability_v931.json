@@ -1,0 +1,38 @@
+{
+  "protocol_sha256": "e7872fb59d2f7f79e845baba018a620e2486ab4444ebde6de65c4ec115ba55e7",
+  "practice": {
+    "n": 332,
+    "changed_from_submitted_policy": 14,
+    "perturbation_changes": {
+      "reverse_facts": 0,
+      "shuffle_17": 0,
+      "shuffle_29": 0,
+      "shuffle_43": 0
+    },
+    "correct": 186,
+    "by_rule": {
+      "DQC_US_0015": {
+        "n": 110,
+        "correct": 50
+      },
+      "DQC_US_0117": {
+        "n": 120,
+        "correct": 53
+      },
+      "DQC_US_0126": {
+        "n": 102,
+        "correct": 83
+      }
+    }
+  },
+  "test": {
+    "n": 680,
+    "changed_from_submitted_policy": 18,
+    "perturbation_changes": {
+      "reverse_facts": 0,
+      "shuffle_17": 0,
+      "shuffle_29": 0,
+      "shuffle_43": 0
+    }
+  }
+}

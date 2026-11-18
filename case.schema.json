@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DOVE retrospective Practice record",
+  "type": "object", "additionalProperties": false,
+  "required": ["schema_version", "id", "condition", "prediction", "status", "method", "pair_correct", "extracted_correct", "calculated_correct", "changed", "gain", "loss", "query_sha256", "parser_recovery", "target_present", "conflicting_reference", "rule"],
+  "properties": {
+    "schema_version": {"const": "dove.followup.case/1"},
+    "id": {"type": "string"},
+    "condition": {"enum": ["frozen", "no_unlinked", "no_equality_penalties", "no_both", "official_full", "official_extract", "official_negate", "zero", "dove_extract", "dove_negate"]},
+    "prediction": {"type": "object", "additionalProperties": false,
+      "required": ["extracted_value", "calculated_value"],
+      "properties": {"extracted_value": {"type": ["string", "null"]}, "calculated_value": {"type": ["string", "null"]}}},
+    "status": {"type": "string"}, "method": {"type": ["string", "null"]},
+    "pair_correct": {"type": "boolean"}, "extracted_correct": {"type": "boolean"},
+    "calculated_correct": {"type": "boolean"}, "changed": {"type": "boolean"},
+    "gain": {"type": "boolean"}, "loss": {"type": "boolean"},
+    "query_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "parser_recovery": {"type": "boolean"}, "target_present": {"type": "boolean"},
+    "conflicting_reference": {"type": "boolean"},
+    "rule": {"enum": ["DQC_US_0015", "DQC_US_0117", "DQC_US_0126"]}
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "test_pairs": 680,
+  "test_mismatches": 0,
+  "practice_conditions": 10,
+  "practice_records": 3320,
+  "controlled_examples": 120,
+  "controlled_correct": [
+    30,
+    30,
+    0,
+    30
+  ],
+  "order_changed_union": 23,
+  "order_counts": {
+    "negative_scope": 19,
+    "dimensional_subtotal": 2,
+    "precision_compatible_duplicate": 2
+  },
+  "python": "3.12.13",
+  "validation": "Author replay from the packaged source. No independent replication claimed.",
+  "pdf_pages": 10,
+  "reference_entries": 26,
+  "paper_sha256": "f8251d9119f9c40133413a45ea8deb66e19ca4844f67a9dc2a8643b556043c85"
+}

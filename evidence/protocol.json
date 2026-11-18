@@ -1,0 +1,82 @@
+{
+  "schema_version": "dove.followup.protocol/1",
+  "created_at_utc": "2026-10-29T16:35:49.915454+00:00",
+  "conditions": [
+    "frozen",
+    "no_unlinked",
+    "no_equality_penalties",
+    "no_both",
+    "official_full",
+    "official_extract",
+    "official_negate",
+    "zero"
+  ],
+  "derived_controls": [
+    "dove_extract",
+    "dove_negate"
+  ],
+  "input_sha256": "5b55204b9fb2f8dae771b7fa20db8415aa30d74fa794a3e4b74c9b3a88de14d9",
+  "source_sha256": {
+    "scripts/paper_followup_v948.py": "397d3c257363b8b23a4b13665355bc7cb45461456e0dcb5d6064d167f0d2cf28",
+    "scripts/paper_controlled_experiments_v929.py": "7f17b5c731f9063b6a315eb6e890bebab79ac037e25b92936bb98b5876031edd",
+    "runs/structured_test_v5/source/finreason/dimensions.py": "7d59193e935f3681c14a9a302c153bf5e45134bb924a6be0ea012e87594824da",
+    "runs/structured_test_v5/source/finreason/nonnegative.py": "4d3cbd979fd38bcda54e20657ea5aaf77174c4467b062e17e1c34562cce2eefc",
+    "runs/structured_test_v5/source/finreason/selection_dimensions.py": "538abc7594029128e952bc3738877f813f386c219eaa0aa19ad197ad3c886264",
+    "runs/structured_test_v5/source/finreason/solver.py": "1b81aac9ecfcdf19aef876bc34873b867554c614dd362048ad0d93b518b7cebd",
+    "data/rules/dqc0015_manifest.json": "0fc71c9ae31ba91b950235c829328e1d83696d91c19dd5e9b987bf1b119b9e61",
+    "data/rules/DQC_0015.xule": "1c20d6fa68f326437330643493b7da8c1c3963041ffc683db95488fdc0c2a6f2",
+    "data/rules/DQC_0015_MemberExclusions.xlsx": "5c666f28fcd6c90032fe661347c5efbfcf2447e3e1902e0fa5752b329d1318bd",
+    "data/rules/dqc_15_dei_concepts.csv": "e136c5925cfd1bff374137e3377bfb34b38c423fbc633906dea1badb9f7d3313",
+    "data/rules/dqc_15_srt_2023_concepts.csv": "acd10b8fb4cd60accb4a75666a2772a3da2cc8318b1a4c2fca580d26c3f18068",
+    "data/rules/dqc_15_srt_2024_concepts.csv": "400c5f7e74f9c31df19fa3aba0bae0592531eef3989e57a86c72ed5307c768fa",
+    "data/rules/dqc_15_srt_2025_concepts.csv": "ef1466e7e6f0aeade170b796a81cf2b2dbf9785d0435f4a89cbcddbbe5d4d9c9",
+    "data/rules/dqc_15_srt_2026_concepts.csv": "bf3875d403b57ca09a4be15cf8326115438a2735ae644e036846679a0a73d388",
+    "data/rules/dqc_15_srt_concepts.csv": "5b5b1e7403b454e709cbf4d553b9b591a7b2c5d316af2fdebbd282652889af5f",
+    "data/rules/dqc_15_usgaap_2015_concepts.csv": "e688102b55fe410f886fc324a942bb13af5442d68aad3ca23fa0f19b3e81d474",
+    "data/rules/dqc_15_usgaap_2016_concepts.csv": "1a2a204ac9bea2d5899a5dc197d2bb06b03c03bd82725631bdbf5c08101159ac",
+    "data/rules/dqc_15_usgaap_2017_concepts.csv": "52951f11c0344382618cbde84e358a4d64f9281fd498bfc9398da8a97534368d",
+    "data/rules/dqc_15_usgaap_2018_concepts.csv": "f6b13f7a196bb5a9a2084815f7f323e437b67e238bae994a9b3f5354e3f16b22",
+    "data/rules/dqc_15_usgaap_2019_concepts.csv": "a9ba4f518cccd0d570a428202f5d7586bc9d3be4a8ddc50f6f6cb9f8c72815e1",
+    "data/rules/dqc_15_usgaap_2020_concepts.csv": "b30290a3d4997032ea6099b31ab2347df6fcc0a9b827927317b0aa79a962ceee",
+    "data/rules/dqc_15_usgaap_2021_concepts.csv": "45eaa9df6448a97d6de07fd261f455e5172056b2d472f568b02882e51c70ccf1",
+    "data/rules/dqc_15_usgaap_2022_concepts.csv": "4f7d24e6a1de492686bb6f5723435d8614276dffc49df114d9da6544ffbb4172",
+    "data/rules/dqc_15_usgaap_2023_concepts.csv": "7a9aedd9aee8dc749f8910f1d6bb6bd599c7b048b544d6cc22eae1e9ce923587",
+    "data/rules/dqc_15_usgaap_2024_concepts.csv": "d0d374d8f97f8ba235b36183b59f5b96c706b7b6cd86b416f2011a04e0972189",
+    "data/rules/dqc_15_usgaap_2025_concepts.csv": "24ed054cd81fad7558ee0e0f5e9f5fcd3857b469d6742c0f52d84c3fab994f12",
+    "data/rules/dqc_15_usgaap_2026_concepts.csv": "6792de3a1817d1619cc360129b93750b7604f33655d17965ce60fbbf169186c1",
+    "vendor/official/finreason_task3/task3_core/__init__.py": "c1eff5921b627d02e364d6fce6e692905c513ee36a4e153b5eb7f3b5451b660b",
+    "vendor/official/finreason_task3/task3_core/io.py": "60ee0be780fa899113d28c83893feb9355ae111d27525685e13ffd386c9e51a0",
+    "vendor/official/finreason_task3/task3_core/schema.py": "f93da87bcb9c5ccca67315f275f13d23bd5d63f394c0a4ee1bb06952279ced3d",
+    "vendor/official/finreason_task3/task3_core/validation.py": "ea7ff58b966c67b0ef0d9cd96dcd0153e4142735865b9142afa280459cb3cea0",
+    "vendor/official/finreason_task3/baselines/rule_baseline.py": "2846e0b09509a4495492f4b1945da3be6b8a521dd24ca565c75dc807226bbd11",
+    "vendor/official/finreason_task3/LICENSE": "4c42519199a14aa9086333617e84ff0507190a8fcc3c57e49b8d3094c6d6144b"
+  },
+  "reused": {
+    "frozen": {
+      "path": "D:\\FinReason Cup\\runs\\paper_controlled_v929\\practice_frozen.json",
+      "sha256": "8b0d564f390af63f785d290d80028c17e38b3d800dfe4e4b94e804b6dd59a4f5"
+    },
+    "no_unlinked": {
+      "path": "D:\\FinReason Cup\\runs\\paper_controlled_v929\\practice_no_unlinked.json",
+      "sha256": "f9d0d72e533dac7046f9b890c86e878fec91d5dd820bf619b2068351ae750ef7"
+    },
+    "no_equality_penalties": {
+      "path": "D:\\FinReason Cup\\runs\\paper_controlled_v929\\practice_no_equality_penalties.json",
+      "sha256": "f5c28266cc8ee64ac2be0f6cc99627bc2bee4057cbbff9bd0eb716a41afa3e82"
+    }
+  },
+  "scoring": "Exact Decimal pair equality, commas and Unicode minus normalized; null is incorrect.",
+  "primary_denominator": 332,
+  "selection": "All public Practice records; no exclusions.",
+  "factorial": "Unlinked aggregation on/off crossed with both equality penalties on/off.",
+  "strata": [
+    "frozen_parser_recovery",
+    "frozen_target_present",
+    "conflicting_query_reference",
+    "rule"
+  ],
+  "inference": "Only query text; no IDs, rule IDs or labels supplied to prediction functions.",
+  "prior_exposure": "Practice and single-arm results were inspected before this follow-up; retrospective.",
+  "protected_submission": "No Test or Development predictions changed; no service requests.",
+  "python": "3.12.13"
+}

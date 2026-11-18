@@ -1,0 +1,2330 @@
+{
+  "condition": "dove_negate",
+  "origin": "derived_from_frozen_extraction",
+  "rows": [
+    {
+      "id": "DEV_000000",
+      "extracted_value": "-1284",
+      "calculated_value": "1284",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000001",
+      "extracted_value": "-2881000",
+      "calculated_value": "2881000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000002",
+      "extracted_value": "-0.16",
+      "calculated_value": "0.16",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000003",
+      "extracted_value": "-157000000",
+      "calculated_value": "157000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000004",
+      "extracted_value": "-157000000",
+      "calculated_value": "157000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000005",
+      "extracted_value": "-157000000",
+      "calculated_value": "157000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000006",
+      "extracted_value": "-157000000",
+      "calculated_value": "157000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000007",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000008",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000009",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000010",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000011",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000012",
+      "extracted_value": "-52292",
+      "calculated_value": "52292",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000013",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000014",
+      "extracted_value": "-182000",
+      "calculated_value": "182000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000015",
+      "extracted_value": "-4100000",
+      "calculated_value": "4100000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000016",
+      "extracted_value": "-800000",
+      "calculated_value": "800000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000017",
+      "extracted_value": "-46600000",
+      "calculated_value": "46600000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000018",
+      "extracted_value": "-8000000",
+      "calculated_value": "8000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000019",
+      "extracted_value": "-122000",
+      "calculated_value": "122000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000020",
+      "extracted_value": "-122000",
+      "calculated_value": "122000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000021",
+      "extracted_value": "-122000",
+      "calculated_value": "122000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000022",
+      "extracted_value": "-48000",
+      "calculated_value": "48000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000023",
+      "extracted_value": "-48000",
+      "calculated_value": "48000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000024",
+      "extracted_value": "-48000",
+      "calculated_value": "48000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000025",
+      "extracted_value": "-48000",
+      "calculated_value": "48000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000026",
+      "extracted_value": "-3123000",
+      "calculated_value": "3123000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000027",
+      "extracted_value": "-9933000",
+      "calculated_value": "9933000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000028",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000029",
+      "extracted_value": "-208000",
+      "calculated_value": "208000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000030",
+      "extracted_value": "-64000",
+      "calculated_value": "64000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000031",
+      "extracted_value": "-58000",
+      "calculated_value": "58000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000032",
+      "extracted_value": "-31000",
+      "calculated_value": "31000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000033",
+      "extracted_value": "-296000",
+      "calculated_value": "296000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000034",
+      "extracted_value": "-269000",
+      "calculated_value": "269000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000035",
+      "extracted_value": "-226000",
+      "calculated_value": "226000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000036",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000037",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000038",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000039",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000040",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000041",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000042",
+      "extracted_value": "-0.0298",
+      "calculated_value": "0.0298",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000043",
+      "extracted_value": "-0.0554",
+      "calculated_value": "0.0554",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000044",
+      "extracted_value": "-0.0554",
+      "calculated_value": "0.0554",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000045",
+      "extracted_value": "-0.0298",
+      "calculated_value": "0.0298",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000046",
+      "extracted_value": "-0.0268",
+      "calculated_value": "0.0268",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000047",
+      "extracted_value": "-0.0268",
+      "calculated_value": "0.0268",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000048",
+      "extracted_value": "-30000000",
+      "calculated_value": "30000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000049",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000050",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000051",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000052",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000053",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000054",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000055",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000056",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000057",
+      "extracted_value": "-516000000",
+      "calculated_value": "516000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000058",
+      "extracted_value": "-839000",
+      "calculated_value": "839000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000059",
+      "extracted_value": "-12000",
+      "calculated_value": "12000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000060",
+      "extracted_value": "-184000",
+      "calculated_value": "184000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000061",
+      "extracted_value": "-184000",
+      "calculated_value": "184000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000062",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000063",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000064",
+      "extracted_value": "-1069000",
+      "calculated_value": "1069000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000065",
+      "extracted_value": "-1545000",
+      "calculated_value": "1545000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000066",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000067",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000068",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000069",
+      "extracted_value": "-4000000",
+      "calculated_value": "4000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000070",
+      "extracted_value": "-4000000",
+      "calculated_value": "4000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000071",
+      "extracted_value": "-4000000",
+      "calculated_value": "4000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000072",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000073",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000074",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "fallback",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000075",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000076",
+      "extracted_value": "-4000000",
+      "calculated_value": "4000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000077",
+      "extracted_value": "-5000000",
+      "calculated_value": "5000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000078",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000079",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000080",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000081",
+      "extracted_value": "-451000",
+      "calculated_value": "451000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000082",
+      "extracted_value": "-76300000",
+      "calculated_value": "76300000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000083",
+      "extracted_value": "-39800000",
+      "calculated_value": "39800000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000084",
+      "extracted_value": "-15000000",
+      "calculated_value": "15000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000085",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000086",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000087",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000088",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000089",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000090",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000091",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000092",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000093",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000094",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000095",
+      "extracted_value": "-490022",
+      "calculated_value": "490022",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000096",
+      "extracted_value": "-39012",
+      "calculated_value": "39012",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000097",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000098",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000099",
+      "extracted_value": "-201000",
+      "calculated_value": "201000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000100",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000101",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000102",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000103",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000104",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000105",
+      "extracted_value": "-1000000",
+      "calculated_value": "1000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000106",
+      "extracted_value": "-1369000",
+      "calculated_value": "1369000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000107",
+      "extracted_value": "-521000",
+      "calculated_value": "521000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000108",
+      "extracted_value": "-600000",
+      "calculated_value": "600000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000109",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000110",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000111",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000112",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000113",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000114",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000115",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000116",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000117",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000118",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000119",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000120",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000121",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000122",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000123",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000124",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000125",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000126",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000127",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000128",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000129",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000130",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000131",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000132",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000133",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000134",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000135",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000136",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000137",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000138",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000139",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000140",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000141",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000142",
+      "extracted_value": "1143000",
+      "calculated_value": "-1143000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000143",
+      "extracted_value": "1336000",
+      "calculated_value": "-1336000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000144",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000145",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000146",
+      "extracted_value": "2440",
+      "calculated_value": "-2440",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000147",
+      "extracted_value": "2440",
+      "calculated_value": "-2440",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000148",
+      "extracted_value": "114600000",
+      "calculated_value": "-114600000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000149",
+      "extracted_value": "2800000",
+      "calculated_value": "-2800000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000150",
+      "extracted_value": "82300000",
+      "calculated_value": "-82300000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000151",
+      "extracted_value": "249200000",
+      "calculated_value": "-249200000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000152",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000153",
+      "extracted_value": "500000",
+      "calculated_value": "-500000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000154",
+      "extracted_value": "51100000",
+      "calculated_value": "-51100000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000155",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000156",
+      "extracted_value": "135",
+      "calculated_value": "-135",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000157",
+      "extracted_value": "186",
+      "calculated_value": "-186",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000158",
+      "extracted_value": "202",
+      "calculated_value": "-202",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000159",
+      "extracted_value": "186",
+      "calculated_value": "-186",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000160",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000161",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000162",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000163",
+      "extracted_value": "186",
+      "calculated_value": "-186",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000164",
+      "extracted_value": "264",
+      "calculated_value": "-264",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000165",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000166",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000167",
+      "extracted_value": "963477",
+      "calculated_value": "-963477",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000168",
+      "extracted_value": "952507",
+      "calculated_value": "-952507",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000169",
+      "extracted_value": "-1194560",
+      "calculated_value": "1194560",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000170",
+      "extracted_value": "-1433861",
+      "calculated_value": "1433861",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000171",
+      "extracted_value": "-725821",
+      "calculated_value": "725821",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000172",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000173",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000174",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000175",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000176",
+      "extracted_value": "-1194560",
+      "calculated_value": "1194560",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000177",
+      "extracted_value": "-1237566",
+      "calculated_value": "1237566",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000178",
+      "extracted_value": "-1433861",
+      "calculated_value": "1433861",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000179",
+      "extracted_value": "-1532533",
+      "calculated_value": "1532533",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000180",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000181",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000182",
+      "extracted_value": "19484000",
+      "calculated_value": "-19484000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000183",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000184",
+      "extracted_value": "328000",
+      "calculated_value": "-328000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000185",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000186",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000187",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000188",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000189",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000190",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000191",
+      "extracted_value": "40000",
+      "calculated_value": "-40000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000192",
+      "extracted_value": "-1012056",
+      "calculated_value": "1012056",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000193",
+      "extracted_value": "-545381",
+      "calculated_value": "545381",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000194",
+      "extracted_value": "-2241820",
+      "calculated_value": "2241820",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000195",
+      "extracted_value": "-2504080",
+      "calculated_value": "2504080",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000196",
+      "extracted_value": "3630",
+      "calculated_value": "-3630",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000197",
+      "extracted_value": "9755",
+      "calculated_value": "-9755",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000198",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000199",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000200",
+      "extracted_value": "2400000",
+      "calculated_value": "-2400000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000201",
+      "extracted_value": "-1468649",
+      "calculated_value": "1468649",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000202",
+      "extracted_value": "-1468649",
+      "calculated_value": "1468649",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000203",
+      "extracted_value": "-1468649",
+      "calculated_value": "1468649",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000204",
+      "extracted_value": "-1468649",
+      "calculated_value": "1468649",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000205",
+      "extracted_value": "-1468649",
+      "calculated_value": "1468649",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000206",
+      "extracted_value": "-1468649",
+      "calculated_value": "1468649",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000207",
+      "extracted_value": "184232",
+      "calculated_value": "-184232",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000208",
+      "extracted_value": "2400000",
+      "calculated_value": "-2400000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000209",
+      "extracted_value": "2584232",
+      "calculated_value": "-2584232",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000210",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000211",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000212",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000213",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000214",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000215",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000216",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000217",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000218",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000219",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000220",
+      "extracted_value": "2400000",
+      "calculated_value": "-2400000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000221",
+      "extracted_value": "2824232",
+      "calculated_value": "-2824232",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000222",
+      "extracted_value": "184232",
+      "calculated_value": "-184232",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000223",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000224",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000225",
+      "extracted_value": "918063",
+      "calculated_value": "-918063",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000226",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000227",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000228",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000229",
+      "extracted_value": "0",
+      "calculated_value": "0",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000230",
+      "extracted_value": "-4771555",
+      "calculated_value": "4771555",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000231",
+      "extracted_value": "11635141",
+      "calculated_value": "-11635141",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000232",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000233",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000234",
+      "extracted_value": "2771000000",
+      "calculated_value": "-2771000000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000235",
+      "extracted_value": "22089",
+      "calculated_value": "-22089",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000236",
+      "extracted_value": "7926094",
+      "calculated_value": "-7926094",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000237",
+      "extracted_value": "41260",
+      "calculated_value": "-41260",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000238",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000239",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000240",
+      "extracted_value": "87123000",
+      "calculated_value": "-87123000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000241",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000242",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000243",
+      "extracted_value": "260841000",
+      "calculated_value": "-260841000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000244",
+      "extracted_value": "-76317000",
+      "calculated_value": "76317000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000245",
+      "extracted_value": "-13136000",
+      "calculated_value": "13136000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000246",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000247",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000248",
+      "extracted_value": "122196000",
+      "calculated_value": "-122196000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000249",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000250",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000251",
+      "extracted_value": "8948000",
+      "calculated_value": "-8948000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000252",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000253",
+      "extracted_value": "-76390",
+      "calculated_value": "76390",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000254",
+      "extracted_value": "374205",
+      "calculated_value": "-374205",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000255",
+      "extracted_value": "-5386000",
+      "calculated_value": "5386000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000256",
+      "extracted_value": "-1523000",
+      "calculated_value": "1523000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000257",
+      "extracted_value": "-555137",
+      "calculated_value": "555137",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000258",
+      "extracted_value": "-443578",
+      "calculated_value": "443578",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000259",
+      "extracted_value": "14738",
+      "calculated_value": "-14738",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000260",
+      "extracted_value": "-813202",
+      "calculated_value": "813202",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000261",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000262",
+      "extracted_value": "4521287",
+      "calculated_value": "-4521287",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000263",
+      "extracted_value": "1295824",
+      "calculated_value": "-1295824",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000264",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000265",
+      "extracted_value": "44816972",
+      "calculated_value": "-44816972",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000266",
+      "extracted_value": "30227410",
+      "calculated_value": "-30227410",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000267",
+      "extracted_value": "12286",
+      "calculated_value": "-12286",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000268",
+      "extracted_value": "27126000",
+      "calculated_value": "-27126000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000269",
+      "extracted_value": "65879",
+      "calculated_value": "-65879",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000270",
+      "extracted_value": "-164595",
+      "calculated_value": "164595",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000271",
+      "extracted_value": "-10072",
+      "calculated_value": "10072",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000272",
+      "extracted_value": "-517099",
+      "calculated_value": "517099",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000273",
+      "extracted_value": "-32002",
+      "calculated_value": "32002",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000274",
+      "extracted_value": "-115117",
+      "calculated_value": "115117",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000275",
+      "extracted_value": "-646758",
+      "calculated_value": "646758",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000276",
+      "extracted_value": "-3175000",
+      "calculated_value": "3175000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000277",
+      "extracted_value": "-17808000",
+      "calculated_value": "17808000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000278",
+      "extracted_value": "-25312000",
+      "calculated_value": "25312000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000279",
+      "extracted_value": "-112918000",
+      "calculated_value": "112918000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000280",
+      "extracted_value": "-166405",
+      "calculated_value": "166405",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000281",
+      "extracted_value": "-699104",
+      "calculated_value": "699104",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000282",
+      "extracted_value": "-1787632",
+      "calculated_value": "1787632",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000283",
+      "extracted_value": "4893017",
+      "calculated_value": "-4893017",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000284",
+      "extracted_value": "4305657",
+      "calculated_value": "-4305657",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000285",
+      "extracted_value": "110375",
+      "calculated_value": "-110375",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000286",
+      "extracted_value": "-1675691",
+      "calculated_value": "1675691",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000287",
+      "extracted_value": "-1155676",
+      "calculated_value": "1155676",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000288",
+      "extracted_value": "-155189",
+      "calculated_value": "155189",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000289",
+      "extracted_value": "622225",
+      "calculated_value": "-622225",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000290",
+      "extracted_value": "-614011",
+      "calculated_value": "614011",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000291",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000292",
+      "extracted_value": "117000",
+      "calculated_value": "-117000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000293",
+      "extracted_value": "117000",
+      "calculated_value": "-117000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000294",
+      "extracted_value": "-10399264",
+      "calculated_value": "10399264",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000295",
+      "extracted_value": "-16587726",
+      "calculated_value": "16587726",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000296",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000297",
+      "extracted_value": null,
+      "calculated_value": null,
+      "status": "target_not_found",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000298",
+      "extracted_value": "-550781",
+      "calculated_value": "550781",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000299",
+      "extracted_value": "-1082484",
+      "calculated_value": "1082484",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000300",
+      "extracted_value": "-466379",
+      "calculated_value": "466379",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000301",
+      "extracted_value": "-35967",
+      "calculated_value": "35967",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000302",
+      "extracted_value": "-315117",
+      "calculated_value": "315117",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000303",
+      "extracted_value": "-386160",
+      "calculated_value": "386160",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000304",
+      "extracted_value": "-17507",
+      "calculated_value": "17507",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000305",
+      "extracted_value": "-21820",
+      "calculated_value": "21820",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000306",
+      "extracted_value": "-51805",
+      "calculated_value": "51805",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000307",
+      "extracted_value": "4675",
+      "calculated_value": "-4675",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000308",
+      "extracted_value": "56480",
+      "calculated_value": "-56480",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000309",
+      "extracted_value": "-212200",
+      "calculated_value": "212200",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000310",
+      "extracted_value": "-13108",
+      "calculated_value": "13108",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000311",
+      "extracted_value": "158700000",
+      "calculated_value": "-158700000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000312",
+      "extracted_value": "137453",
+      "calculated_value": "-137453",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000313",
+      "extracted_value": "-118456",
+      "calculated_value": "118456",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000314",
+      "extracted_value": "23481000",
+      "calculated_value": "-23481000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000315",
+      "extracted_value": "-5342265",
+      "calculated_value": "5342265",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000316",
+      "extracted_value": "1180",
+      "calculated_value": "-1180",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000317",
+      "extracted_value": "-11326850",
+      "calculated_value": "11326850",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000318",
+      "extracted_value": "-91799",
+      "calculated_value": "91799",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000319",
+      "extracted_value": "2275823",
+      "calculated_value": "-2275823",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000320",
+      "extracted_value": "-47666",
+      "calculated_value": "47666",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000321",
+      "extracted_value": "8547000",
+      "calculated_value": "-8547000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000322",
+      "extracted_value": "295000",
+      "calculated_value": "-295000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000323",
+      "extracted_value": "266500",
+      "calculated_value": "-266500",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000324",
+      "extracted_value": "-285287",
+      "calculated_value": "285287",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000325",
+      "extracted_value": "-252587",
+      "calculated_value": "252587",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000326",
+      "extracted_value": "-247587",
+      "calculated_value": "247587",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000327",
+      "extracted_value": "998557",
+      "calculated_value": "-998557",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000328",
+      "extracted_value": "-1454022",
+      "calculated_value": "1454022",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000329",
+      "extracted_value": "-22400000",
+      "calculated_value": "22400000",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000330",
+      "extracted_value": "-92346",
+      "calculated_value": "92346",
+      "status": "ok",
+      "method": "dove_negate"
+    },
+    {
+      "id": "DEV_000331",
+      "extracted_value": "-62419",
+      "calculated_value": "62419",
+      "status": "ok",
+      "method": "dove_negate"
+    }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "changed_union": 23,
+  "counts": {
+    "multiple_eligible_negative_targets": 19,
+    "precision_compatible_unequal_duplicates": 2,
+    "tied_dimensional_subtotals": 2
+  },
+  "changed_per_condition": {
+    "reverse_facts": 23,
+    "shuffle_17": 16,
+    "shuffle_29": 17,
+    "shuffle_43": 15
+  },
+  "cases": [
+    {
+      "id": "TEST3_000002",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-1535000",
+          "calculated_value": "1535000",
+          "context": "c-127",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-2184000",
+          "calculated_value": "2184000",
+          "context": "c-11",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-17000",
+          "calculated_value": "17000",
+          "context": "c-131",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-17000",
+          "calculated_value": "17000",
+          "context": "c-131",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-1535000",
+          "calculated_value": "1535000",
+          "context": "c-127",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000003",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-36000",
+          "calculated_value": "36000",
+          "context": "c-125",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-535230000",
+          "calculated_value": "535230000",
+          "context": "c-11",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-2901000",
+          "calculated_value": "2901000",
+          "context": "c-131",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-65372000",
+          "calculated_value": "65372000",
+          "context": "c-143",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-65372000",
+          "calculated_value": "65372000",
+          "context": "c-143",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000004",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-347000",
+          "calculated_value": "347000",
+          "context": "c-127",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-4773000",
+          "calculated_value": "4773000",
+          "context": "c-11",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-3160000",
+          "calculated_value": "3160000",
+          "context": "c-135",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-333000",
+          "calculated_value": "333000",
+          "context": "c-129",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-924000",
+          "calculated_value": "924000",
+          "context": "c-131",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000005",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-4083000",
+          "calculated_value": "4083000",
+          "context": "c-125",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-173501000",
+          "calculated_value": "173501000",
+          "context": "c-11",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-1862000",
+          "calculated_value": "1862000",
+          "context": "c-137",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-153552000",
+          "calculated_value": "153552000",
+          "context": "c-129",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-28000",
+          "calculated_value": "28000",
+          "context": "c-139",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000011",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-47517000",
+          "calculated_value": "47517000",
+          "context": "c-679",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-76415000",
+          "calculated_value": "76415000",
+          "context": "c-703",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-11187000",
+          "calculated_value": "11187000",
+          "context": "c-685",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-9541000",
+          "calculated_value": "9541000",
+          "context": "c-695",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-17709000",
+          "calculated_value": "17709000",
+          "context": "c-701",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000014",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-47517000",
+          "calculated_value": "47517000",
+          "context": "c-734",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-76415000",
+          "calculated_value": "76415000",
+          "context": "c-758",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-47520000",
+          "calculated_value": "47520000",
+          "context": "c-738",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-216000",
+          "calculated_value": "216000",
+          "context": "c-752",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-47520000",
+          "calculated_value": "47520000",
+          "context": "c-738",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000015",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-123856000",
+          "calculated_value": "123856000",
+          "context": "c-89",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-415070000",
+          "calculated_value": "415070000",
+          "context": "c-8",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-127333000",
+          "calculated_value": "127333000",
+          "context": "c-91",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-123856000",
+          "calculated_value": "123856000",
+          "context": "c-89",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-113004000",
+          "calculated_value": "113004000",
+          "context": "c-95",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000016",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-20000",
+          "calculated_value": "20000",
+          "context": "c-89",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-11070000",
+          "calculated_value": "11070000",
+          "context": "c-8",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-11070000",
+          "calculated_value": "11070000",
+          "context": "c-8",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-1001000",
+          "calculated_value": "1001000",
+          "context": "c-95",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-20000",
+          "calculated_value": "20000",
+          "context": "c-89",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000021",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-17379000",
+          "calculated_value": "17379000",
+          "context": "c-803",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-190000",
+          "calculated_value": "190000",
+          "context": "c-804",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-17379000",
+          "calculated_value": "17379000",
+          "context": "c-803",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-190000",
+          "calculated_value": "190000",
+          "context": "c-804",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-17379000",
+          "calculated_value": "17379000",
+          "context": "c-803",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000026",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-18163000",
+          "calculated_value": "18163000",
+          "context": "c-809",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-183000",
+          "calculated_value": "183000",
+          "context": "c-810",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-18163000",
+          "calculated_value": "18163000",
+          "context": "c-809",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-18163000",
+          "calculated_value": "18163000",
+          "context": "c-809",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-18163000",
+          "calculated_value": "18163000",
+          "context": "c-809",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000027",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-157227000",
+          "calculated_value": "157227000",
+          "context": "c-78",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-449746000",
+          "calculated_value": "449746000",
+          "context": "c-7",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-157227000",
+          "calculated_value": "157227000",
+          "context": "c-78",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-129239000",
+          "calculated_value": "129239000",
+          "context": "c-79",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-2365000",
+          "calculated_value": "2365000",
+          "context": "c-80",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000028",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-3006000",
+          "calculated_value": "3006000",
+          "context": "c-475",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-8210000",
+          "calculated_value": "8210000",
+          "context": "c-511",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-8210000",
+          "calculated_value": "8210000",
+          "context": "c-511",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-3000",
+          "calculated_value": "3000",
+          "context": "c-502",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-3000",
+          "calculated_value": "3000",
+          "context": "c-502",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000029",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-124874000",
+          "calculated_value": "124874000",
+          "context": "c-142",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-420816000",
+          "calculated_value": "420816000",
+          "context": "c-8",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-130031000",
+          "calculated_value": "130031000",
+          "context": "c-143",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-124874000",
+          "calculated_value": "124874000",
+          "context": "c-142",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-113423000",
+          "calculated_value": "113423000",
+          "context": "c-145",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000030",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-20000",
+          "calculated_value": "20000",
+          "context": "c-152",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-11551000",
+          "calculated_value": "11551000",
+          "context": "c-9",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-253000",
+          "calculated_value": "253000",
+          "context": "c-154",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-2000",
+          "calculated_value": "2000",
+          "context": "c-159",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-14000",
+          "calculated_value": "14000",
+          "context": "c-158",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000042",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-31745000",
+          "calculated_value": "31745000",
+          "context": "c-97",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-27660000",
+          "calculated_value": "27660000",
+          "context": "c-102",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-31745000",
+          "calculated_value": "31745000",
+          "context": "c-97",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-15975000",
+          "calculated_value": "15975000",
+          "context": "c-100",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-24479000",
+          "calculated_value": "24479000",
+          "context": "c-101",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000043",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-9960000",
+          "calculated_value": "9960000",
+          "context": "c-30",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-24017000",
+          "calculated_value": "24017000",
+          "context": "c-116",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-9960000",
+          "calculated_value": "9960000",
+          "context": "c-30",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-9960000",
+          "calculated_value": "9960000",
+          "context": "c-30",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-9960000",
+          "calculated_value": "9960000",
+          "context": "c-30",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000044",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-29923000",
+          "calculated_value": "29923000",
+          "context": "c-115",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-24642000",
+          "calculated_value": "24642000",
+          "context": "c-120",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-8989000",
+          "calculated_value": "8989000",
+          "context": "c-117",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-24642000",
+          "calculated_value": "24642000",
+          "context": "c-120",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-24642000",
+          "calculated_value": "24642000",
+          "context": "c-120",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000102",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-124000",
+          "calculated_value": "124000",
+          "context": "c-335",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-707000",
+          "calculated_value": "707000",
+          "context": "c-331",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-64000",
+          "calculated_value": "64000",
+          "context": "c-351",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-707000",
+          "calculated_value": "707000",
+          "context": "c-331",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-707000",
+          "calculated_value": "707000",
+          "context": "c-331",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000130",
+      "category": "multiple_eligible_negative_targets",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "-33000",
+          "calculated_value": "33000",
+          "context": "AsOf2023-12-31_srt_SingleFamilyMember",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "-50000",
+          "calculated_value": "50000",
+          "context": "AsOf2023-12-31_us-gaap_ConsumerLoanMember",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "-50000",
+          "calculated_value": "50000",
+          "context": "AsOf2023-12-31_us-gaap_ConsumerLoanMember",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "-50000",
+          "calculated_value": "50000",
+          "context": "AsOf2023-12-31_us-gaap_ConsumerLoanMember",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "-33000",
+          "calculated_value": "33000",
+          "context": "AsOf2023-12-31_srt_SingleFamilyMember",
+          "reason": "qualified_nonnegative_fact_in_document_order",
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000165",
+      "category": "precision_compatible_unequal_duplicates",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "3979000",
+          "calculated_value": "14500000",
+          "context": "c-1",
+          "reason": null,
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "4000000.0",
+          "calculated_value": "14500000",
+          "context": "c-1",
+          "reason": null,
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "3979000",
+          "calculated_value": "14500000",
+          "context": "c-1",
+          "reason": null,
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "3979000",
+          "calculated_value": "14500000",
+          "context": "c-1",
+          "reason": null,
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "3979000",
+          "calculated_value": "14500000",
+          "context": "c-1",
+          "reason": null,
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000166",
+      "category": "precision_compatible_unequal_duplicates",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "3709000",
+          "calculated_value": "10300000",
+          "context": "c-7",
+          "reason": null,
+          "selection_score": null
+        },
+        "reverse_facts": {
+          "extracted_value": "3700000",
+          "calculated_value": "10300000",
+          "context": "c-7",
+          "reason": null,
+          "selection_score": null
+        },
+        "shuffle_17": {
+          "extracted_value": "3709000",
+          "calculated_value": "10300000",
+          "context": "c-7",
+          "reason": null,
+          "selection_score": null
+        },
+        "shuffle_29": {
+          "extracted_value": "3709000",
+          "calculated_value": "10300000",
+          "context": "c-7",
+          "reason": null,
+          "selection_score": null
+        },
+        "shuffle_43": {
+          "extracted_value": "3700000",
+          "calculated_value": "10300000",
+          "context": "c-7",
+          "reason": null,
+          "selection_score": null
+        }
+      }
+    },
+    {
+      "id": "TEST3_000197",
+      "category": "tied_dimensional_subtotals",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "304611000",
+          "calculated_value": "7849000",
+          "context": "c-26",
+          "reason": "joint_dimensional_subtotal_and_aggregation",
+          "selection_score": 0.8038000000000001
+        },
+        "reverse_facts": {
+          "extracted_value": "7049000",
+          "calculated_value": "1171000",
+          "context": "c-46",
+          "reason": "joint_dimensional_subtotal_and_aggregation",
+          "selection_score": 0.8038000000000001
+        },
+        "shuffle_17": {
+          "extracted_value": "7049000",
+          "calculated_value": "1171000",
+          "context": "c-46",
+          "reason": "joint_dimensional_subtotal_and_aggregation",
+          "selection_score": 0.8038000000000001
+        },
+        "shuffle_29": {
+          "extracted_value": "7049000",
+          "calculated_value": "1171000",
+          "context": "c-46",
+          "reason": "joint_dimensional_subtotal_and_aggregation",
+          "selection_score": 0.8038000000000001
+        },
+        "shuffle_43": {
+          "extracted_value": "304611000",
+          "calculated_value": "7849000",
+          "context": "c-26",
+          "reason": "joint_dimensional_subtotal_and_aggregation",
+          "selection_score": 0.8038000000000001
+        }
+      }
+    },
+    {
+      "id": "TEST3_000198",
+      "category": "tied_dimensional_subtotals",
+      "outputs": {
+        "frozen": {
+          "extracted_value": "475279000",
+          "calculated_value": "9168000",
+          "context": "c-26",
+          "reason": "joint_dimensional_subtotal_and_aggregation",
+          "selection_score": 0.8038000000000001
+        },
+        "reverse_facts": {
+          "extracted_value": "9143000",
+          "calculated_value": "1818000",
+          "context": "c-46",
+          "reason": "joint_dimensional_subtotal_and_aggregation",
+          "selection_score": 0.8038000000000001
+        },
+        "shuffle_17": {
+          "extracted_value": "-5997000",
+          "calculated_value": "-3185000",
+          "context": "c-38",
+          "reason": "joint_dimensional_subtotal_and_aggregation",
+          "selection_score": 0.8038000000000001
+        },
+        "shuffle_29": {
+          "extracted_value": "-5997000",
+          "calculated_value": "-3185000",
+          "context": "c-38",
+          "reason": "joint_dimensional_subtotal_and_aggregation",
+          "selection_score": 0.8038000000000001
+        },
+        "shuffle_43": {
+          "extracted_value": "-5997000",
+          "calculated_value": "-3185000",
+          "context": "c-38",
+          "reason": "joint_dimensional_subtotal_and_aggregation",
+          "selection_score": 0.8038000000000001
+        }
+      }
+    }
+  ],
+  "precision_note": "TEST3_000165: 3979000 decimals=-3 and 4000000 decimals=-5. TEST3_000166: 3709000 decimals=-3 and 3700000 decimals=-5. Rounding intervals overlap in each pair; unequal raw values do not establish inconsistent duplicates.",
+  "scope": "No changed case with a unique target value under implemented eligibility checks was observed. This does not prove the real filing has no uniquely identifiable intended target."
+}

@@ -1,0 +1,889 @@
+{
+  "schema_version": "dove.followup.summary/1",
+  "protocol_sha256": "93cd3ed813826533db90daf81285203a0a433d49a411d168e5238d416523b90e",
+  "conditions": {
+    "frozen": {
+      "all": {
+        "n": 332,
+        "correct": 187,
+        "extracted_correct": 191,
+        "calculated_correct": 187,
+        "gain": 0,
+        "loss": 0,
+        "changed": 0,
+        "exceptions": 0
+      },
+      "without_recovery": {
+        "n": 84,
+        "correct": 79,
+        "extracted_correct": 80,
+        "calculated_correct": 79,
+        "gain": 0,
+        "loss": 0,
+        "changed": 0,
+        "exceptions": 0
+      },
+      "with_recovery": {
+        "n": 248,
+        "correct": 108,
+        "extracted_correct": 111,
+        "calculated_correct": 108,
+        "gain": 0,
+        "loss": 0,
+        "changed": 0,
+        "exceptions": 0
+      },
+      "without_conflicting_reference": {
+        "n": 285,
+        "correct": 181,
+        "extracted_correct": 185,
+        "calculated_correct": 181,
+        "gain": 0,
+        "loss": 0,
+        "changed": 0,
+        "exceptions": 0
+      },
+      "target_present": {
+        "n": 206,
+        "correct": 187,
+        "extracted_correct": 191,
+        "calculated_correct": 187,
+        "gain": 0,
+        "loss": 0,
+        "changed": 0,
+        "exceptions": 0
+      },
+      "by_rule": {
+        "DQC_US_0015": {
+          "n": 110,
+          "correct": 50,
+          "extracted_correct": 50,
+          "calculated_correct": 50,
+          "gain": 0,
+          "loss": 0,
+          "changed": 0,
+          "exceptions": 0
+        },
+        "DQC_US_0117": {
+          "n": 120,
+          "correct": 54,
+          "extracted_correct": 55,
+          "calculated_correct": 54,
+          "gain": 0,
+          "loss": 0,
+          "changed": 0,
+          "exceptions": 0
+        },
+        "DQC_US_0126": {
+          "n": 102,
+          "correct": 83,
+          "extracted_correct": 86,
+          "calculated_correct": 83,
+          "gain": 0,
+          "loss": 0,
+          "changed": 0,
+          "exceptions": 0
+        }
+      }
+    },
+    "no_unlinked": {
+      "all": {
+        "n": 332,
+        "correct": 182,
+        "extracted_correct": 191,
+        "calculated_correct": 182,
+        "gain": 0,
+        "loss": 5,
+        "changed": 5,
+        "exceptions": 0
+      },
+      "without_recovery": {
+        "n": 84,
+        "correct": 76,
+        "extracted_correct": 80,
+        "calculated_correct": 76,
+        "gain": 0,
+        "loss": 3,
+        "changed": 3,
+        "exceptions": 0
+      },
+      "with_recovery": {
+        "n": 248,
+        "correct": 106,
+        "extracted_correct": 111,
+        "calculated_correct": 106,
+        "gain": 0,
+        "loss": 2,
+        "changed": 2,
+        "exceptions": 0
+      },
+      "without_conflicting_reference": {
+        "n": 285,
+        "correct": 176,
+        "extracted_correct": 185,
+        "calculated_correct": 176,
+        "gain": 0,
+        "loss": 5,
+        "changed": 5,
+        "exceptions": 0
+      },
+      "target_present": {
+        "n": 206,
+        "correct": 182,
+        "extracted_correct": 191,
+        "calculated_correct": 182,
+        "gain": 0,
+        "loss": 5,
+        "changed": 5,
+        "exceptions": 0
+      },
+      "by_rule": {
+        "DQC_US_0015": {
+          "n": 110,
+          "correct": 50,
+          "extracted_correct": 50,
+          "calculated_correct": 50,
+          "gain": 0,
+          "loss": 0,
+          "changed": 0,
+          "exceptions": 0
+        },
+        "DQC_US_0117": {
+          "n": 120,
+          "correct": 49,
+          "extracted_correct": 55,
+          "calculated_correct": 49,
+          "gain": 0,
+          "loss": 5,
+          "changed": 5,
+          "exceptions": 0
+        },
+        "DQC_US_0126": {
+          "n": 102,
+          "correct": 83,
+          "extracted_correct": 86,
+          "calculated_correct": 83,
+          "gain": 0,
+          "loss": 0,
+          "changed": 0,
+          "exceptions": 0
+        }
+      }
+    },
+    "no_equality_penalties": {
+      "all": {
+        "n": 332,
+        "correct": 183,
+        "extracted_correct": 191,
+        "calculated_correct": 183,
+        "gain": 0,
+        "loss": 4,
+        "changed": 4,
+        "exceptions": 0
+      },
+      "without_recovery": {
+        "n": 84,
+        "correct": 77,
+        "extracted_correct": 80,
+        "calculated_correct": 77,
+        "gain": 0,
+        "loss": 2,
+        "changed": 2,
+        "exceptions": 0
+      },
+      "with_recovery": {
+        "n": 248,
+        "correct": 106,
+        "extracted_correct": 111,
+        "calculated_correct": 106,
+        "gain": 0,
+        "loss": 2,
+        "changed": 2,
+        "exceptions": 0
+      },
+      "without_conflicting_reference": {
+        "n": 285,
+        "correct": 177,
+        "extracted_correct": 185,
+        "calculated_correct": 177,
+        "gain": 0,
+        "loss": 4,
+        "changed": 4,
+        "exceptions": 0
+      },
+      "target_present": {
+        "n": 206,
+        "correct": 183,
+        "extracted_correct": 191,
+        "calculated_correct": 183,
+        "gain": 0,
+        "loss": 4,
+        "changed": 4,
+        "exceptions": 0
+      },
+      "by_rule": {
+        "DQC_US_0015": {
+          "n": 110,
+          "correct": 50,
+          "extracted_correct": 50,
+          "calculated_correct": 50,
+          "gain": 0,
+          "loss": 0,
+          "changed": 0,
+          "exceptions": 0
+        },
+        "DQC_US_0117": {
+          "n": 120,
+          "correct": 50,
+          "extracted_correct": 55,
+          "calculated_correct": 50,
+          "gain": 0,
+          "loss": 4,
+          "changed": 4,
+          "exceptions": 0
+        },
+        "DQC_US_0126": {
+          "n": 102,
+          "correct": 83,
+          "extracted_correct": 86,
+          "calculated_correct": 83,
+          "gain": 0,
+          "loss": 0,
+          "changed": 0,
+          "exceptions": 0
+        }
+      }
+    },
+    "no_both": {
+      "all": {
+        "n": 332,
+        "correct": 182,
+        "extracted_correct": 191,
+        "calculated_correct": 182,
+        "gain": 0,
+        "loss": 5,
+        "changed": 5,
+        "exceptions": 0
+      },
+      "without_recovery": {
+        "n": 84,
+        "correct": 76,
+        "extracted_correct": 80,
+        "calculated_correct": 76,
+        "gain": 0,
+        "loss": 3,
+        "changed": 3,
+        "exceptions": 0
+      },
+      "with_recovery": {
+        "n": 248,
+        "correct": 106,
+        "extracted_correct": 111,
+        "calculated_correct": 106,
+        "gain": 0,
+        "loss": 2,
+        "changed": 2,
+        "exceptions": 0
+      },
+      "without_conflicting_reference": {
+        "n": 285,
+        "correct": 176,
+        "extracted_correct": 185,
+        "calculated_correct": 176,
+        "gain": 0,
+        "loss": 5,
+        "changed": 5,
+        "exceptions": 0
+      },
+      "target_present": {
+        "n": 206,
+        "correct": 182,
+        "extracted_correct": 191,
+        "calculated_correct": 182,
+        "gain": 0,
+        "loss": 5,
+        "changed": 5,
+        "exceptions": 0
+      },
+      "by_rule": {
+        "DQC_US_0015": {
+          "n": 110,
+          "correct": 50,
+          "extracted_correct": 50,
+          "calculated_correct": 50,
+          "gain": 0,
+          "loss": 0,
+          "changed": 0,
+          "exceptions": 0
+        },
+        "DQC_US_0117": {
+          "n": 120,
+          "correct": 49,
+          "extracted_correct": 55,
+          "calculated_correct": 49,
+          "gain": 0,
+          "loss": 5,
+          "changed": 5,
+          "exceptions": 0
+        },
+        "DQC_US_0126": {
+          "n": 102,
+          "correct": 83,
+          "extracted_correct": 86,
+          "calculated_correct": 83,
+          "gain": 0,
+          "loss": 0,
+          "changed": 0,
+          "exceptions": 0
+        }
+      }
+    },
+    "official_full": {
+      "all": {
+        "n": 332,
+        "correct": 25,
+        "extracted_correct": 171,
+        "calculated_correct": 26,
+        "gain": 0,
+        "loss": 162,
+        "changed": 303,
+        "exceptions": 0
+      },
+      "without_recovery": {
+        "n": 84,
+        "correct": 10,
+        "extracted_correct": 68,
+        "calculated_correct": 10,
+        "gain": 0,
+        "loss": 69,
+        "changed": 73,
+        "exceptions": 0
+      },
+      "with_recovery": {
+        "n": 248,
+        "correct": 15,
+        "extracted_correct": 103,
+        "calculated_correct": 16,
+        "gain": 0,
+        "loss": 93,
+        "changed": 230,
+        "exceptions": 0
+      },
+      "without_conflicting_reference": {
+        "n": 285,
+        "correct": 25,
+        "extracted_correct": 170,
+        "calculated_correct": 26,
+        "gain": 0,
+        "loss": 156,
+        "changed": 256,
+        "exceptions": 0
+      },
+      "target_present": {
+        "n": 206,
+        "correct": 25,
+        "extracted_correct": 168,
+        "calculated_correct": 25,
+        "gain": 0,
+        "loss": 162,
+        "changed": 177,
+        "exceptions": 0
+      },
+      "by_rule": {
+        "DQC_US_0015": {
+          "n": 110,
+          "correct": 17,
+          "extracted_correct": 27,
+          "calculated_correct": 17,
+          "gain": 0,
+          "loss": 33,
+          "changed": 92,
+          "exceptions": 0
+        },
+        "DQC_US_0117": {
+          "n": 120,
+          "correct": 0,
+          "extracted_correct": 58,
+          "calculated_correct": 1,
+          "gain": 0,
+          "loss": 54,
+          "changed": 120,
+          "exceptions": 0
+        },
+        "DQC_US_0126": {
+          "n": 102,
+          "correct": 8,
+          "extracted_correct": 86,
+          "calculated_correct": 8,
+          "gain": 0,
+          "loss": 75,
+          "changed": 91,
+          "exceptions": 0
+        }
+      }
+    },
+    "official_extract": {
+      "all": {
+        "n": 332,
+        "correct": 0,
+        "extracted_correct": 171,
+        "calculated_correct": 1,
+        "gain": 0,
+        "loss": 187,
+        "changed": 330,
+        "exceptions": 0
+      },
+      "without_recovery": {
+        "n": 84,
+        "correct": 0,
+        "extracted_correct": 68,
+        "calculated_correct": 0,
+        "gain": 0,
+        "loss": 79,
+        "changed": 84,
+        "exceptions": 0
+      },
+      "with_recovery": {
+        "n": 248,
+        "correct": 0,
+        "extracted_correct": 103,
+        "calculated_correct": 1,
+        "gain": 0,
+        "loss": 108,
+        "changed": 246,
+        "exceptions": 0
+      },
+      "without_conflicting_reference": {
+        "n": 285,
+        "correct": 0,
+        "extracted_correct": 170,
+        "calculated_correct": 1,
+        "gain": 0,
+        "loss": 181,
+        "changed": 283,
+        "exceptions": 0
+      },
+      "target_present": {
+        "n": 206,
+        "correct": 0,
+        "extracted_correct": 168,
+        "calculated_correct": 0,
+        "gain": 0,
+        "loss": 187,
+        "changed": 204,
+        "exceptions": 0
+      },
+      "by_rule": {
+        "DQC_US_0015": {
+          "n": 110,
+          "correct": 0,
+          "extracted_correct": 27,
+          "calculated_correct": 0,
+          "gain": 0,
+          "loss": 50,
+          "changed": 109,
+          "exceptions": 0
+        },
+        "DQC_US_0117": {
+          "n": 120,
+          "correct": 0,
+          "extracted_correct": 58,
+          "calculated_correct": 1,
+          "gain": 0,
+          "loss": 54,
+          "changed": 119,
+          "exceptions": 0
+        },
+        "DQC_US_0126": {
+          "n": 102,
+          "correct": 0,
+          "extracted_correct": 86,
+          "calculated_correct": 0,
+          "gain": 0,
+          "loss": 83,
+          "changed": 102,
+          "exceptions": 0
+        }
+      }
+    },
+    "official_negate": {
+      "all": {
+        "n": 332,
+        "correct": 32,
+        "extracted_correct": 171,
+        "calculated_correct": 33,
+        "gain": 0,
+        "loss": 155,
+        "changed": 295,
+        "exceptions": 0
+      },
+      "without_recovery": {
+        "n": 84,
+        "correct": 14,
+        "extracted_correct": 68,
+        "calculated_correct": 14,
+        "gain": 0,
+        "loss": 65,
+        "changed": 69,
+        "exceptions": 0
+      },
+      "with_recovery": {
+        "n": 248,
+        "correct": 18,
+        "extracted_correct": 103,
+        "calculated_correct": 19,
+        "gain": 0,
+        "loss": 90,
+        "changed": 226,
+        "exceptions": 0
+      },
+      "without_conflicting_reference": {
+        "n": 285,
+        "correct": 31,
+        "extracted_correct": 170,
+        "calculated_correct": 32,
+        "gain": 0,
+        "loss": 150,
+        "changed": 252,
+        "exceptions": 0
+      },
+      "target_present": {
+        "n": 206,
+        "correct": 32,
+        "extracted_correct": 168,
+        "calculated_correct": 32,
+        "gain": 0,
+        "loss": 155,
+        "changed": 169,
+        "exceptions": 0
+      },
+      "by_rule": {
+        "DQC_US_0015": {
+          "n": 110,
+          "correct": 27,
+          "extracted_correct": 27,
+          "calculated_correct": 27,
+          "gain": 0,
+          "loss": 23,
+          "changed": 79,
+          "exceptions": 0
+        },
+        "DQC_US_0117": {
+          "n": 120,
+          "correct": 0,
+          "extracted_correct": 58,
+          "calculated_correct": 1,
+          "gain": 0,
+          "loss": 54,
+          "changed": 120,
+          "exceptions": 0
+        },
+        "DQC_US_0126": {
+          "n": 102,
+          "correct": 5,
+          "extracted_correct": 86,
+          "calculated_correct": 5,
+          "gain": 0,
+          "loss": 78,
+          "changed": 96,
+          "exceptions": 0
+        }
+      }
+    },
+    "zero": {
+      "all": {
+        "n": 332,
+        "correct": 0,
+        "extracted_correct": 15,
+        "calculated_correct": 5,
+        "gain": 0,
+        "loss": 187,
+        "changed": 331,
+        "exceptions": 0
+      },
+      "without_recovery": {
+        "n": 84,
+        "correct": 0,
+        "extracted_correct": 0,
+        "calculated_correct": 1,
+        "gain": 0,
+        "loss": 79,
+        "changed": 84,
+        "exceptions": 0
+      },
+      "with_recovery": {
+        "n": 248,
+        "correct": 0,
+        "extracted_correct": 15,
+        "calculated_correct": 4,
+        "gain": 0,
+        "loss": 108,
+        "changed": 247,
+        "exceptions": 0
+      },
+      "without_conflicting_reference": {
+        "n": 285,
+        "correct": 0,
+        "extracted_correct": 15,
+        "calculated_correct": 5,
+        "gain": 0,
+        "loss": 181,
+        "changed": 284,
+        "exceptions": 0
+      },
+      "target_present": {
+        "n": 206,
+        "correct": 0,
+        "extracted_correct": 12,
+        "calculated_correct": 4,
+        "gain": 0,
+        "loss": 187,
+        "changed": 205,
+        "exceptions": 0
+      },
+      "by_rule": {
+        "DQC_US_0015": {
+          "n": 110,
+          "correct": 0,
+          "extracted_correct": 0,
+          "calculated_correct": 0,
+          "gain": 0,
+          "loss": 50,
+          "changed": 109,
+          "exceptions": 0
+        },
+        "DQC_US_0117": {
+          "n": 120,
+          "correct": 0,
+          "extracted_correct": 15,
+          "calculated_correct": 4,
+          "gain": 0,
+          "loss": 54,
+          "changed": 120,
+          "exceptions": 0
+        },
+        "DQC_US_0126": {
+          "n": 102,
+          "correct": 0,
+          "extracted_correct": 0,
+          "calculated_correct": 1,
+          "gain": 0,
+          "loss": 83,
+          "changed": 102,
+          "exceptions": 0
+        }
+      }
+    },
+    "dove_extract": {
+      "all": {
+        "n": 332,
+        "correct": 0,
+        "extracted_correct": 191,
+        "calculated_correct": 0,
+        "gain": 0,
+        "loss": 187,
+        "changed": 199,
+        "exceptions": 0
+      },
+      "without_recovery": {
+        "n": 84,
+        "correct": 0,
+        "extracted_correct": 80,
+        "calculated_correct": 0,
+        "gain": 0,
+        "loss": 79,
+        "changed": 80,
+        "exceptions": 0
+      },
+      "with_recovery": {
+        "n": 248,
+        "correct": 0,
+        "extracted_correct": 111,
+        "calculated_correct": 0,
+        "gain": 0,
+        "loss": 108,
+        "changed": 119,
+        "exceptions": 0
+      },
+      "without_conflicting_reference": {
+        "n": 285,
+        "correct": 0,
+        "extracted_correct": 185,
+        "calculated_correct": 0,
+        "gain": 0,
+        "loss": 181,
+        "changed": 184,
+        "exceptions": 0
+      },
+      "target_present": {
+        "n": 206,
+        "correct": 0,
+        "extracted_correct": 191,
+        "calculated_correct": 0,
+        "gain": 0,
+        "loss": 187,
+        "changed": 199,
+        "exceptions": 0
+      },
+      "by_rule": {
+        "DQC_US_0015": {
+          "n": 110,
+          "correct": 0,
+          "extracted_correct": 50,
+          "calculated_correct": 0,
+          "gain": 0,
+          "loss": 50,
+          "changed": 59,
+          "exceptions": 0
+        },
+        "DQC_US_0117": {
+          "n": 120,
+          "correct": 0,
+          "extracted_correct": 55,
+          "calculated_correct": 0,
+          "gain": 0,
+          "loss": 54,
+          "changed": 54,
+          "exceptions": 0
+        },
+        "DQC_US_0126": {
+          "n": 102,
+          "correct": 0,
+          "extracted_correct": 86,
+          "calculated_correct": 0,
+          "gain": 0,
+          "loss": 83,
+          "changed": 86,
+          "exceptions": 0
+        }
+      }
+    },
+    "dove_negate": {
+      "all": {
+        "n": 332,
+        "correct": 55,
+        "extracted_correct": 191,
+        "calculated_correct": 55,
+        "gain": 0,
+        "loss": 132,
+        "changed": 140,
+        "exceptions": 0
+      },
+      "without_recovery": {
+        "n": 84,
+        "correct": 26,
+        "extracted_correct": 80,
+        "calculated_correct": 26,
+        "gain": 0,
+        "loss": 53,
+        "changed": 53,
+        "exceptions": 0
+      },
+      "with_recovery": {
+        "n": 248,
+        "correct": 29,
+        "extracted_correct": 111,
+        "calculated_correct": 29,
+        "gain": 0,
+        "loss": 79,
+        "changed": 87,
+        "exceptions": 0
+      },
+      "without_conflicting_reference": {
+        "n": 285,
+        "correct": 49,
+        "extracted_correct": 185,
+        "calculated_correct": 49,
+        "gain": 0,
+        "loss": 132,
+        "changed": 140,
+        "exceptions": 0
+      },
+      "target_present": {
+        "n": 206,
+        "correct": 55,
+        "extracted_correct": 191,
+        "calculated_correct": 55,
+        "gain": 0,
+        "loss": 132,
+        "changed": 140,
+        "exceptions": 0
+      },
+      "by_rule": {
+        "DQC_US_0015": {
+          "n": 110,
+          "correct": 50,
+          "extracted_correct": 50,
+          "calculated_correct": 50,
+          "gain": 0,
+          "loss": 0,
+          "changed": 0,
+          "exceptions": 0
+        },
+        "DQC_US_0117": {
+          "n": 120,
+          "correct": 0,
+          "extracted_correct": 55,
+          "calculated_correct": 0,
+          "gain": 0,
+          "loss": 54,
+          "changed": 60,
+          "exceptions": 0
+        },
+        "DQC_US_0126": {
+          "n": 102,
+          "correct": 5,
+          "extracted_correct": 86,
+          "calculated_correct": 5,
+          "gain": 0,
+          "loss": 78,
+          "changed": 80,
+          "exceptions": 0
+        }
+      }
+    }
+  },
+  "loss_ids": {
+    "no_unlinked": [
+      "DEV_000148",
+      "DEV_000151",
+      "DEV_000182",
+      "DEV_000183",
+      "DEV_000184"
+    ],
+    "no_equality_penalties": [
+      "DEV_000148",
+      "DEV_000151",
+      "DEV_000183",
+      "DEV_000184"
+    ],
+    "no_both": [
+      "DEV_000148",
+      "DEV_000151",
+      "DEV_000182",
+      "DEV_000183",
+      "DEV_000184"
+    ]
+  },
+  "single_arm_loss_overlap": [
+    "DEV_000148",
+    "DEV_000151",
+    "DEV_000183",
+    "DEV_000184"
+  ],
+  "factorial_accuracy_count_contrast": 4,
+  "contrast_definition": "Y11-Y01-Y10+Y00 (count scale); descriptive, not a significance test.",
+  "case_rows": 3320,
+  "cases_sha256": "f368981332ce04fb9fe3addbdfcd4b767caa9c64fa1da1abcc7dcda5cf707eac",
+  "baseline_source_sha256": "2846e0b09509a4495492f4b1945da3be6b8a521dd24ca565c75dc807226bbd11",
+  "noncausal_baseline_comparison": "Different parsers, target selection and arithmetic; not a component ablation.",
+  "network_disabled": true,
+  "paid_model_calls": 0,
+  "competition_posts": 0,
+  "uncertainties": [
+    "Retrospective reused Practice set",
+    "No natural clean-filing specificity estimate",
+    "No per-case official Test labels",
+    "Parser strata are policy-defined, not random splits"
+  ]
+}

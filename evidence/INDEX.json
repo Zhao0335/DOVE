@@ -1,0 +1,21 @@
+{
+  "version": "949",
+  "original_protocol": "protocol.json",
+  "notes": "Original machine paths are provenance only; CLIs take explicit input/output paths.",
+  "full_input_sha256": "5b55204b9fb2f8dae771b7fa20db8415aa30d74fa794a3e4b74c9b3a88de14d9",
+  "files": {
+    "cases.jsonl": "f368981332ce04fb9fe3addbdfcd4b767caa9c64fa1da1abcc7dcda5cf707eac",
+    "dove_extract.json": "42560c89e0ae56e7cf6ae7ee51b952767e18a9dd855ab2d3bc07b83e73f46d92",
+    "dove_negate.json": "2df63636c8be9e0064a7eebdea337075e2d86dff22e440e7212361877c8d9420",
+    "frozen.json": "5c31fcc01fda9e8f94bf39fbafd854d6f56d2d639a31f6dc0d1e7588ae4e2838",
+    "no_both.json": "ac32bfd2309877eda9f718967bc1f3fe856eacd834463f19b11e6a903b426177",
+    "no_equality_penalties.json": "57ad3ba02f05c7d326cfce70b675c0529d5e8f0c1f1a9c1276e5cad3b7203ddc",
+    "no_unlinked.json": "cbe4e316d89920e6f903fbd9adc0deb9a792bd6fe33625a8095efdba31e7163a",
+    "official_extract.json": "a0210c9a3e083531f134f48ee6826cf43d42b853f1d2000e6cf3625cbffcb28c",
+    "official_full.json": "6bceae40b6ce2adf0e163550f99375fdaef308b1d9fd679a51b1e6f069943c36",
+    "official_negate.json": "c077720f4c7f22f2b66197e1ec077f5e5281b3a64cab1c7b24da4b6338796bd5",
+    "protocol.json": "93cd3ed813826533db90daf81285203a0a433d49a411d168e5238d416523b90e",
+    "summary.json": "4d7551affd67760b5c1852147f3186ca642e541ee281b1825ea42dee784fffac",
+    "zero.json": "4a41388ee5bfe8ae1d7bf5dcbed753256e3c0958dcdf768106e2d2f96913cec1"
+  }
+}

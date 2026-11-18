@@ -1,0 +1,4 @@
+Organizer baseline/task3_core: MIT notice at vendor/official/finreason_task3/LICENSE.
+DQC resources retain original ownership and terms; pinned provenance: data/rules/dqc0015_manifest.json.
+Third-party resources retain their original ownership and license terms.
+No benchmark queries, reference answers, credentials or submission clients are included. Public Practice predictions and derived correctness records are included.
