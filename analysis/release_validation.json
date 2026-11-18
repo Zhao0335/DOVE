@@ -19,6 +19,7 @@
   "python": "3.12.13",
   "validation": "Author replay from the packaged source. No independent replication claimed.",
   "pdf_pages": 10,
-  "reference_entries": 26,
-  "paper_sha256": "f8251d9119f9c40133413a45ea8deb66e19ca4844f67a9dc2a8643b556043c85"
+  "reference_entries": 24,
+  "paper_sha256": "ddb52175353fc0b496f202c5f484958d177a718e716c848dbb6b1a667890042f",
+  "pdf_express_status": "pending authenticated IEEE validation"
 }

@@ -72,7 +72,7 @@ Y.~Wang \emph{et~al.}, ``{FinAuditing}: A financial taxonomy-structured multi-do
 
 \bibitem{peng2026herculean}
 \BIBentryALTinterwordspacing
-X.~Peng \emph{et~al.}, ``{Herculean}: An agentic benchmark for financial intelligence,'' arXiv preprint arXiv:2605.14355, 2026. [Online]. Available: \url{https://arxiv.org/abs/2605.14355}
+X.~Peng \emph{et~al.}, ``{Herculean}: An agentic benchmark for financial intelligence,'' 2026. [Online]. Available: \url{https://arxiv.org/abs/2605.14355}
 \BIBentrySTDinterwordspacing
 
 \bibitem{xie2023pixiu}
@@ -102,12 +102,6 @@ J.~Huang \emph{et~al.}, ``{AuditJudgLLM}: a domain-specific large language model
 \BIBentryALTinterwordspacing
 Y.~Wang \emph{et~al.}, ``{FinTagging}: Benchmarking {LLMs} for extracting and structuring financial information,'' arXiv preprint arXiv:2505.20650v5, 2026. [Online]. Available: \url{https://arxiv.org/abs/2505.20650v5}
 \BIBentrySTDinterwordspacing
-
-\bibitem{medicalfoundation}
-Q.~Xie \emph{et~al.}, ``Medical foundation large language models for comprehensive text analysis and beyond,'' \emph{npj Digital Medicine}, vol.~8, no.~1, p. 141, 2025.
-
-\bibitem{biomedicalsurvey}
-B.~Wang \emph{et~al.}, ``Pre-trained language models in biomedical domain: A systematic survey,'' \emph{ACM Computing Surveys}, vol.~56, no.~3, pp. 1--52, 2023, article 55.
 
 \bibitem{dqcimplementation}
 \BIBentryALTinterwordspacing

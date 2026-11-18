@@ -1,3 +1,5 @@
+\pdfminorversion=4
+\pdfobjcompresslevel=0
 \documentclass[conference]{IEEEtran}
 \IEEEoverridecommandlockouts
 \usepackage{amsmath,amssymb}
@@ -20,6 +22,7 @@
 Team DOVE\\xqq.sincere@gmail.com}
 \thanks{\textsuperscript{*}Corresponding author.}
 }
+\hypersetup{pdftitle={DOVE: Difference-Oriented Verification and Execution for Financial Numerical Verification},pdfauthor={Chenxu Zhao, Sichen Hui, Qianqian Xie},pdfsubject={FinReason Cup 2026 Task 3, SC03230},pdfkeywords={XBRL, financial numerical verification, financial auditing, reliability audit}}
 \begin{document}
 \bstctlcite{IEEEexample:BSTcontrol}
 \maketitle
@@ -88,7 +91,7 @@ Here $V$ counts valid evaluator labels, including S; an invalid judge response i
 \label{sec:related}
 
 \noindent\textbf{Financial numerical reasoning.}
-FinQA studies multi-step financial question answering with annotated reasoning programs~\cite{chen-etal-2021-finqa}, while TAT-QA combines tabular and textual evidence with arithmetic operations~\cite{zhu-etal-2021-tat}. FinAuditing evaluates taxonomy-structured reasoning across related financial documents~\cite{wang2026finauditing}, and Herculean places financial reasoning within agentic workflows and tool use~\cite{peng2026herculean}. Financial language-model research also includes PIXIU and FinBen, which provide financial modeling resources and evaluation benchmarks~\cite{xie2023pixiu,xie2024finben}. MultiFinBen extends evaluation across languages and text, images, and audio~\cite{peng-etal-2026-multifinben}. AuditWen covers audit information extraction and question answering~\cite{jiajia-etal-2024-auditwen}, while AuditJudgLLM evaluates professional audit judgment~\cite{huang2027auditjudgllm}. FinTagging tests financial figure identification and linking to US GAAP concepts~\cite{wang2026fintagging}. Related domain-specific studies have examined biomedical language models and their evaluation~\cite{medicalfoundation,biomedicalsurvey}. These works advance domain-specific reasoning and evaluation, but targeted XBRL verification additionally requires selecting the correct accounting scope and an executable relationship with sufficient operands. DOVE addresses these requirements through context-aware fact selection and evidence-preserving numerical programs.
+FinQA studies multi-step financial question answering with annotated reasoning programs~\cite{chen-etal-2021-finqa}, while TAT-QA combines tabular and textual evidence with arithmetic operations~\cite{zhu-etal-2021-tat}. FinAuditing evaluates taxonomy-structured reasoning across related financial documents~\cite{wang2026finauditing}, and Herculean places financial reasoning within agentic workflows and tool use~\cite{peng2026herculean}. Financial language-model research also includes PIXIU and FinBen, which provide financial modeling resources and evaluation benchmarks~\cite{xie2023pixiu,xie2024finben}. MultiFinBen extends evaluation across languages and text, images, and audio~\cite{peng-etal-2026-multifinben}. AuditWen covers audit information extraction and question answering~\cite{jiajia-etal-2024-auditwen}, while AuditJudgLLM evaluates professional audit judgment~\cite{huang2027auditjudgllm}. FinTagging tests financial figure identification and linking to US GAAP concepts~\cite{wang2026fintagging}. These works advance domain-specific reasoning and evaluation, but targeted XBRL verification additionally requires selecting the correct accounting scope and an executable relationship with sufficient operands. DOVE addresses these requirements through context-aware fact selection and evidence-preserving numerical programs.
 
 \noindent\textbf{XBRL validation.}
 The XBRL US DQC publishes executable validation rules~\cite{dqcusrules,dqcimplementation}. Arelle provides context-aware fact access and calculation validation, and XULE supports business-rule execution, including DQC checks~\cite{arelle,xule}. These tools supply structured validation evidence. DOVE addresses the task-specific selection of a fact and reconstruction program to produce one numerical pair.
@@ -216,7 +219,10 @@ Here $s(p)$ includes the preceding generator and inverse-route adjustments. Dime
 
 General-route candidates are ordered by adjusted score using a stable sort. Equal scores retain the order in which generator outputs were added to the pool; within the direct generator, operand count is a secondary key. The joint route ranks subtotal/program pairs internally because it resolves both choices together. It compares the joint score and then the subtotal's source position, and commits the winning pair. The general candidate pool remains available for diagnostics without replacing that joint decision. Thus selection is route-specific, and generation or source order can affect ties (Section~\ref{sec:order}).
 
-The coefficients are fixed development choices; the archived ablations vary the named components while retaining the remaining configuration.
+\paragraph{Choice of score constants}
+The score constants were hand-set development heuristics, with public Practice discrepancies motivating the preference for a changed value. Their role can be understood from the priority margins encoded in the frozen implementation. Direct and inverse bases (0.76 and 0.72) place explicit calculation relationships above weak observed-member aggregation (0.38) and report copying (0.10). Coverage contributes up to 0.13 or 0.16, whereas the capped count terms contribute at most 0.04 or 0.02 and the role bonus adds 0.02. Thus relationship family and coverage carry more weight than these secondary indicators.
+
+The 0.60 agreement penalty is large enough to move even the highest direct score, 0.95, below an unpenalized weak-aggregation score of 0.38. The dimensional agreement penalty of 0.25 moves an equal-valued weak sum from 0.38 to 0.13, below the 0.30 admission threshold, while a discrepant weak sum remains above it. The inverse penalty of 1.0 similarly enforces the direct-route priority. These inequalities explain the behavior encoded by the chosen magnitudes. The development archive contains no documented search or independent calibration establishing those exact values as optimal. Alternative constants could implement the same priorities. Section~\ref{sec:ablation} reports retrospective sensitivity separately from this design rationale.
 
 For every output, \dove{} records the target fact and context, selected route, operands and weights, coverage, missing items, duplicate conflicts, candidate scores, and fallback state. These traces support rule-level debugging, component ablation, and reliability testing.
 
@@ -336,7 +342,7 @@ The four cases lost when the discrepancy preference is removed are contained in 
 Additional interventions produced identical Practice outputs: removing the nested-context preference, removing joint subtotal selection, removing inverse-route downweighting, and adjusting related admission thresholds. These null interventions narrow the set of components with observed decision impact in the frozen Practice run.
 
 \paragraph{Parameter sensitivity}
-The constants in the submitted configuration are development heuristics. The available archive does not establish a held-out procedure for selecting their numerical magnitudes. Retrospective scaling of both equality penalties by $0$, $0.5$, $1$, and $1.5$ yields 183, 185, 187, and 187 correct Practice pairs. Moving the related admission thresholds from 0.3 to 0.1 or 0.5 leaves all Practice outputs unchanged. These measurements describe local sensitivity on the development-exposed split. The aggregate official Test score evaluates the complete frozen policy and cannot isolate parameter or component transfer.
+Retrospective scaling of both equality penalties by $0$, $0.5$, $1$, and $1.5$ yields 183, 185, 187, and 187 correct Practice pairs. Moving the related admission thresholds from 0.3 to 0.1 or 0.5 leaves all Practice outputs unchanged. These measurements describe local sensitivity on the development-exposed split. The aggregate official Test score evaluates the complete frozen policy and cannot isolate parameter or component transfer.
 
 \subsection{Results Across Practice Strata}
 \label{sec:practice-diagnostics}
@@ -388,6 +394,8 @@ The ranking reversal follows Eq.~\eqref{eq:discrepancy}. With a corrupted report
 \subsection{Task Performance and Scope Resolution}
 The ten-case aggregate gap to the leading systems lies in DQC~0117. Dimensional execution requires both a subtotal scope and an adequate member partition. DOVE makes these choices explicit through its joint selector and aggregation programs, connecting each numerical output to the selected scope and member evidence.
 
+All 54 Practice predictions selected through dimensional routes agree with their public numerical references. The available traces therefore supply no reference-disagreeing dimensional example from this split. The Test subtotal-switch example in Section~\ref{sec:order} demonstrates scope ambiguity, with its official correctness unresolved.
+
 A dimensional extension should establish the target's fixed scope, verify that members are disjoint and collectively cover the aggregate, and distinguish omitted members from reported zero values. The 28 incomplete or unresolved dimensional paths are local coverage diagnostics. Their relationship to the 11 official DQC~0117 errors cannot be determined from aggregate labels alone.
 
 The Practice ablation identifies weak aggregation and discrepancy-aware ranking as interacting components. Other selector interventions leave Practice outputs unchanged. The measured component gains are thus concentrated in the construction and selection of aggregation alternatives.
@@ -413,6 +421,9 @@ Code and experiment materials are available at \url{https://github.com/Zhao0335/
 
 \section{Conclusion}
 DOVE achieves 655/680 correct Test answers in FinReason Cup 2026 Task~3, including all DQC~0126 cases. Matched Practice comparisons establish the contribution of numerical execution beyond sign flipping, and factorial ablation identifies the interaction between weak aggregation and discrepancy-aware ranking. Reliability audits expose fact-order dependence and incomplete-candidate promotion. Together, these results connect competition performance to the selection mechanisms that support it and show where exact execution still depends on the quality of the selected evidence.
+
+\section*{Acknowledgment}
+OpenAI Codex assisted with manuscript drafting and revision, including the Abstract and Sections I--IX, and with analysis scripts and LaTeX preparation. For the camera-ready revision, this assistance included the related-work synthesis, scoring explanation, trace analysis, and reproducibility documentation in Sections III--VIII. Numerical statements were checked against archived outputs and executable replay. The authors are responsible for the final manuscript.
 
 \appendices
 
